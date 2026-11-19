@@ -1,4 +1,4 @@
-<h1 align="center">Phloa</h1>
+<h1 align="center">Poach</h1>
 <div align="center">
 API for generating free placeholder images for your apps.
 </div>
